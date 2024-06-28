@@ -1,0 +1,15 @@
+{
+    "name": "antoinelucsko/tp-pimple",
+    "autoload": {
+        "psr-4": {
+            "Pimple\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antoine07",
+            "email": "antoine.lucsko@gmail.com"
+        }
+    ],
+    "require": {}
+}
